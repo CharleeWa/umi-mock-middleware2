@@ -11,11 +11,11 @@
     "url": "https://github.com/CharleeWa/umi-mock-middleware2"
   },
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "chokidar": "^2.0.4",
-    "debug": "^3.1.0",
-    "glob": "^7.1.2",
-    "path-to-regexp": "^2.2.1"
+    "body-parser": "^1.20.0",
+    "chokidar": "^3.5.3",
+    "debug": "^4.3.4",
+    "glob": "^8.0.3",
+    "path-to-regexp": "^6.2.1"
   },
   "devDependencies": {},
   "author": "li-xiaoyin",
