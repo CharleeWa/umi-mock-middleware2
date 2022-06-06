@@ -1,6 +1,6 @@
 {
   "name": "umi-mock-middleware2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "umi-mock-middleware是从umi代码中单独摘取出了mock中间件相关的独立代码，使之可以在React之外的环境，比如Vue中使用。功能更独立，更专一，使用更方便。",
   "main": "index.js",
   "scripts": {
