@@ -15,7 +15,7 @@
     "chokidar": "^3.5.3",
     "debug": "^4.3.4",
     "glob": "^8.0.3",
-    "path-to-regexp": "^6.2.1"
+    "path-to-regexp": "^2.2.1"
   },
   "devDependencies": {},
   "author": "li-xiaoyin",
